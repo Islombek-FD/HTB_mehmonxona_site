@@ -1,0 +1,15 @@
+/* Features section */
+.box {
+    width: 33.3%;
+    float: left;
+    padding: 50px;
+    text-align: center;
+}
+
+.box i {
+    margin-bottom: 10px;
+}
+
+.clr {
+  clear: both;
+}

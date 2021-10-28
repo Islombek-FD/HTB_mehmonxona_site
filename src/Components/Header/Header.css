@@ -1,0 +1,22 @@
+/* Showcase section */
+#showcase {
+    height: 600px;
+    background-image: url('../../Assets/Images/hotel-image.jfif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#showcase #showcase-content {
+    text-align: center;
+    color: #fff;
+    padding-top: 170px;
+}
+
+#showcase h1 {
+    font-size: 60px;
+}
+#showcase p {
+    padding-bottom: 20px;
+    font-size: 20px;
+}
